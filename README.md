@@ -6,11 +6,17 @@ If an MTA command is highlighted, pressing F6 will open the MTA wiki with that c
 
 
 **Installation**
+
 lua.xml -> `C: \ Program Files (x86) \ Notepad ++ \ plugins \ APIs` 
+
 stylers.xml -> `C: \ Users \% usuário% \ AppData \ Roaming \ Notepad ++` 
+
 langs.xml -> `C: \ Usuários \% Usuário% \ AppData \ Roaming \ Notepad ++` 
+
 shortcuts.xml -> `C: \ Usuários \% Usuário% \ AppData \ Roaming \ Notepad ++`
+
 **Ger:** Settings -> Options -> Auto-completion -> Enable Enable auto-completion on each input parameters and hint function on input
+
 **Eng:** Settings -> Preferences -> Auto-complete -> Enable Enable auto-complete on each input and function hint parameters on the input
 
 
